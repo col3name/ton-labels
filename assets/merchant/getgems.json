@@ -47,6 +47,14 @@
             "tags": [],
             "submittedBy": "shuva10v",
             "submissionTimestamp": "2025-03-03T00:00:01Z"
+        },
+        {
+            "address": "EQBPnnUx2OFiKeNxtia2jD0yRsFZVQaJeXgU3WLyp1i5oYCv",
+            "source": "tonviewer getgames",
+            "comment": "deployed by GetGems Sales",
+            "tags": [],
+            "submittedBy": "col3name",
+            "submissionTimestamp": "2025-03-16T00:00:01Z"
         }
     ]
 }
